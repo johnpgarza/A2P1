@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4509381e-c88c-45af-adc3-05f91a280b4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_new.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/efsd2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/efsd2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efs/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/efs/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/efs/efs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/efs/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs/portfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +67,7 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -149,8 +139,16 @@
       <workItem from="1569279751148" duration="748000" />
       <workItem from="1569282241309" duration="1073000" />
       <workItem from="1569285458716" duration="7847000" />
-      <workItem from="1569374743115" duration="4336000" />
+      <workItem from="1569374743115" duration="5139000" />
     </task>
+    <task id="LOCAL-00001" summary="Assignment Completed">
+      <created>1569379324341</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569379324341</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +166,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Assignment Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment Completed" />
   </component>
 </project>
