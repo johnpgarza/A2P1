@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4509381e-c88c-45af-adc3-05f91a280b4a" name="Default Changelist" comment="" />
+    <list default="true" id="4509381e-c88c-45af-adc3-05f91a280b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_delete.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/efsd2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/efsd2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/efs/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/efs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/efs/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/investment_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/templates/portfolio/stock_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/efs/portfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/efs/portfolio/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +71,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="john &lt;jgarza@unomaha.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\JohnGarza\8380\efsd2\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1RAbNHxXnclEgskn6UkAG5US5pW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/efs/portfolio/templates/portfolio" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -112,10 +145,28 @@
       <workItem from="1569188430397" duration="24000" />
       <workItem from="1569189172914" duration="175000" />
       <workItem from="1569189527628" duration="20000" />
+      <workItem from="1569190266640" duration="1352000" />
+      <workItem from="1569279751148" duration="748000" />
+      <workItem from="1569282241309" duration="1073000" />
+      <workItem from="1569285458716" duration="7847000" />
+      <workItem from="1569374743115" duration="4336000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
